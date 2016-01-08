@@ -6,4 +6,8 @@
 
 >https://www.youtube.com/watch?v=ZNObiptSMSI&list=PL08903FB7ACA1C2FB
 
+#links
+
+>http://www.tsql.info/
+
 >http://www.tsql.info/sql.php
