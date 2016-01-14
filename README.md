@@ -8,6 +8,8 @@
 
 #links
 
+>http://blog.sqlauthority.com/2010/07/20/sql-server-select-from-dual-dual-equivalent/
+
 >http://www.tsql.info/
 
 >http://www.tsql.info/sql.php
