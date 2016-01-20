@@ -8,6 +8,8 @@
 
 #links
 
+>http://stackoverflow.com/questions/1620740/how-to-get-a-time-and-date-separately
+
 >http://blog.sqlauthority.com/2010/07/20/sql-server-select-from-dual-dual-equivalent/
 
 >http://www.tsql.info/
